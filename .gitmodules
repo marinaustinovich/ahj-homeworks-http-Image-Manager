@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/marinaustinovich/Image-Manager-front.git
+[submodule "back"]
+	path = back
+	url = https://github.com/marinaustinovich/Image-Manager-back.git
